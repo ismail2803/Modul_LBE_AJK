@@ -23,7 +23,6 @@
         -   [2) Subnetting](#2-subnetting)
         -   [3) Routing](#3-routing)
         -   [4) Testing](#4-testing)
--   [LATIHAN!](#-latihan!)
 
 ## A. Pengenalan
 
