@@ -345,21 +345,7 @@ _**Keterangan**_ :
 2.  Mask 255.255.255.192 adalah netmask dari subnet A3
 3.  Next Hop 192.168.1.65 (disebut **gateway**), adalah IP yang dituju ketika ingin menuju subnet poin 1, yaitu interface pada VENUSAUR yang mengarah ke PIKACHU
 
-Pada **UML**, _routing_ dilakukan pada device _**router**_ dengan perintah :
-
-```
-route add -net <NID subnet> netmask <netmask> gw <IP gateway>
-
-```
-
-Lalu lihat hasil _routing_ dengan perintah :
-
-```
-route -n
-
-```
-
-Maka sekarang, (nama UML nya) dan _host_ pada (nama UML nya) sudah saling terhubung. Agar semua subnet dapat saling terhubung, tambahkan _static routing_ berikut :
+Agar semua subnet dapat saling terhubung, tambahkan _static routing_ berikut :
 
 1.  Pada PIKACHU
     
