@@ -411,9 +411,3 @@ Maka sekarang, (nama UML nya) dan _host_ pada (nama UML nya) sudah saling terhub
 Untuk mengetesnya dapat dilakukan dengan cara ping dari client ke IP tujuan atau menggunakan tombol dengan ikon surat pada _toolbar_.
 
 ![Gambar](gambar/35.PNG)
-
-### Latihan!
-
-![Gambar](gambar/Latihan.PNG)
-
-Implementasikan subnetting dan routing topologi di atas pada Cisco Packet Tracer dan UML menggunakan teknik subnetting yang berbeda! Contoh pada Cisco Packet Tracer menggunakan CIDR, pada UML menggunakan VLSM atau sebaliknya. (Untuk UML, tiap subnet diwakili satu client/komputer saja)
